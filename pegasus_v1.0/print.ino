@@ -1,6 +1,5 @@
 
 
-
 void printdebug()
 {
 Serial.print(F(" ver "));
