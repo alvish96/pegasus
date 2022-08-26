@@ -1,5 +1,6 @@
 {
     "port": "COM3",
     "board": "arduino:avr:uno",
+    "programmer": "arduino:avrisp",
     "sketch": "pegasus_v1.0\\pegasus_v1.0.ino"
 }
